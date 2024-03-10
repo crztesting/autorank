@@ -10,5 +10,5 @@ _G.GMAX_ZONE_UPGRADE_COST = 20000
 _G.GIGNORE_SLEDRACE = false
 _G.GPOTIONS = {"Damage","Coins"}
 _G.GPOTIONS_MAX_TIER = 5
-_G.GENCHANTS = {"Tap Power", "Coins", "Treasure Hunter", "Strong Pets", "Criticals"}
+_G.GENCHANTS = {"Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets"}
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34915da4ad87a5028e1fd64efbe3543f.lua"))()
