@@ -10,7 +10,7 @@ _G.GMAX_ZONE_UPGRADE_COST = 20000
 _G.GIGNORE_SLEDRACE = false
 _G.GPOTIONS = {"Damage","Coins"}
 _G.GPOTIONS_MAX_TIER = 5
-_G.GENCHANTS = {"Tap Power", "Coins", "Treasure Hunter", "Strong Pets", "Criticals"}
+_G.GENCHANTS = {"Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets"}
 _G.GWEBHOOK_USERID = "484739592239579136"
 _G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1203873700064272404/ONG3i05OJ95sw1F1ERMh40kn5Zno22C5P3ihUydWec2sNGCvWw70Teuiz5iUPjnD0iBQ"
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34915da4ad87a5028e1fd64efbe3543f.lua"))()
