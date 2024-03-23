@@ -28,22 +28,3 @@ game:GetService('StarterGui'):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, fal
 
 game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.EmotesMenu, false)
 end)
-
-
-
-script_key="WWfrhYVbGwkWynQpPsyHYKRKJHtgBeFe";
-_G.GPROGRESS_MODE = "Hybrid"
-_G.GRANK_TO = 99
-_G.GZONE_TO = 145 -- ONLY increase above 99 to go to world2, only when 100% sure, there is no way back for the "best zone" quests etc. 
-_G.GMAX_EGG_SLOTS = 25
-_G.GMAX_EQUIP_SLOTS = 45
-_G.GHOLD_GIFTS = false
-_G.GHOLD_BUNDLES = false
-_G.GMAX_ZONE_UPGRADE_COST = 20000
-_G.GIGNORE_SLEDRACE = false
-_G.GPOTIONS = {"Damage","Coins"}
-_G.GPOTIONS_MAX_TIER = 5
-_G.GENCHANTS = {"Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets", "Strong Pets"}
-_G.GWEBHOOK_USERID = "484739592239579136"
-_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1203873700064272404/ONG3i05OJ95sw1F1ERMh40kn5Zno22C5P3ihUydWec2sNGCvWw70Teuiz5iUPjnD0iBQ"
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34915da4ad87a5028e1fd64efbe3543f.lua"))()
